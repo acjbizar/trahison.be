@@ -1,1 +1,1 @@
-Sitemap: sitemap.xml
+sitemap: https://trahison.be/sitemap.xml
