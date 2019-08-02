@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "20190802",
+    "name": "La trahison de l’Internet",
+    "default_locale": "en",
+    "description": "Website + domain name, 2011. Homage to René Magritte.",
+    "author": "Alexander Christiaan Jacob",
+    "theme_color": "#f6e4b6",
+    "homepage_url": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "https://trahison.be/apple-touch-icon-precomposed.png"
+        }
+    ],
+    "display": "fullscreen"
+}
