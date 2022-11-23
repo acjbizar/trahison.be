@@ -1,0 +1,13 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "lang": "fr",
+    "dir": "ltr",
+    "name": "La trahison de l’Internet",
+    "description": "Website + domain name, 2011. Homage to René Magritte.",
+    "icons": [{
+        "src": "./apple-touch-icon-precomposed.png"
+    }],
+    "scope": "/",
+    "id": "./",
+    "theme_color": "#f6e4b6"
+}
