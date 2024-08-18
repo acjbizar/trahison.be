@@ -5,9 +5,13 @@
     "name": "La trahison de l’Internet",
     "description": "Website + domain name, 2011. Homage to René Magritte.",
     "icons": [{
-        "src": "./apple-touch-icon-precomposed.png"
+        "src": "https://trahison.be/apple-touch-icon-precomposed.png",
+        "sizes": "512x512",
+        "type": "image/png"
     }],
     "scope": "/",
-    "id": "./",
-    "theme_color": "#f6e4b6"
+    "start_url": ".",
+    "id": "https://trahison.be/",
+    "theme_color": "#f6e4b6",
+    "background_color": "#f6e4b6"
 }
